@@ -11,9 +11,9 @@ I'm a passionate developer who loves building amazing applications and learning 
 - 🛠️ Contributing to Open Source projects
 
 📬 **Contact Me:**
-- 📧 Email: [your-email@example.com](mailto:khandanish30599@gmail.com)
-- 🏢 LinkedIn: [Your Profile](www.linkedin.com/in/danishkhan786)
-- 🐦 Twitter: [Your Twitter](https://twitter.com/@danishkhan30599)
+- 📧 Email:mailto:khandanish30599@gmail.com
+- 🏢 LinkedIn: www.linkedin.com/in/danishkhan786
+- 🐦 Twitter: https://twitter.com/@danishkhan30599
 
 ---
 
