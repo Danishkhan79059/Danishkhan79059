@@ -22,10 +22,8 @@ I'm a passionate developer who loves building amazing applications and learning 
 - **Backend:** Node.js, Express.js, MongoDB, PostgreSQL
 
 📊 **GitHub Stats:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 📌 **Top Languages:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 🎯 **Fun Fact:**
 > "A day without coding is like a day without sunshine! ☀️"
