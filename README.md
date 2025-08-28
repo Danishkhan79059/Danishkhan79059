@@ -39,7 +39,7 @@ I'm a passionate developer who loves building amazing applications and learning 
 ---
 
 ### 💇 [Pksharis](https://pkshair.com) – International Hair Products Brand  
-[![Website](https://img.shields.io/badge/Website-pksharis.com-blue?style=for-the-badge&logo=google-chrome)](https://pksharis.com)  
+[![Website](https://img.shields.io/badge/Website-pkshair.com-blue?style=for-the-badge&logo=google-chrome)](https://pkshair.com)  
 > A global **e-commerce platform** delivering **premium hair care products** internationally.  
 ✔️ Built with **Next.js + TailwindCSS**  
 ✔️ Integrated **secure payment gateway & product catalog system**  
